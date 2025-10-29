@@ -14,12 +14,7 @@ I could’ve said something meaningful here.
 Maybe a quote, or a mission statement.
 But instead, I chose silence — because real code speaks louder than words.</p>
 
-<h2>👋 Hi there</h2>
-<h3>I'm CueX</h3>
 <p>
-
-  
-  Backend Developer
 
   🙌😶‍🌫️😨😭🙌
 
