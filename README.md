@@ -10,8 +10,8 @@
 ### 💫 About Me
 - 🎓 Currently studying **Information Technology**
 - 💻 Working on **Spring Boot + Flutter Student Management System**
-- ⚡ Interested in **DevOps / Docker / WSL2 / Casdoor**
-- 📫 Reach me at **ockun68@gmail.com**
+- ⚡ Interested in **DevOps / Java / Linux / Backend**
+- 📫 Reach me at **Ngmanhcuong2011@gmail.com**
 
 ---
 
@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://github.com/Manhcuong05"><img src="https://skillicons.dev/icons?i=github" width="40px"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="40px"/></a>
-  <a href="mailto:ockun68@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px"/></a>
+  <a href="mailto:Ngmanhcuong2011@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px"/></a>
 </p>
 
 ---
