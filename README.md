@@ -1,7 +1,4 @@
-  <a href="https://wakatime.com/@YangLine" >
-    <img width="40%" align="right"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=%F0%9F%92%BB%20Yang%20Line%27s%20coding%20stats"
-        alt="Yang Line's stats">
+ 
 </a>
 
 <p>
@@ -9,13 +6,14 @@ READ ME
 
 Yes read this.
 
-I could have probably said something important here, but no, I have chosen to waste your time. Without remorse, yes, cruel, super bad, so that this sentence was copied from somway.
-</p>
+I could’ve said something meaningful here.
+Maybe a quote, or a mission statement.
+But instead, I chose silence — because real code speaks louder than words.</p>
 
 <h2>👋 Hi there</h2>
-<h3>I'm Line Yang</h3>
+<h3>I'm CueX</h3>
 <p>
-  <code>#define NaN FULL</code>
+
   
   NaN stack programmer.
 
