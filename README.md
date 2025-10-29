@@ -15,7 +15,7 @@ But instead, I chose silence — because real code speaks louder than words.</p>
 <p>
 
   
-  NaN stack programmer.
+  Backend Developer
 
   🙌😶‍🌫️😨😭🙌
 
