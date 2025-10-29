@@ -1,5 +1,8 @@
 
- 
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manhcuong05&label=Profile%20views&color=ff007f&style=for-the-badge" alt="Manhcuong05" />
+</p>
+
 </a>
 
 <p>
