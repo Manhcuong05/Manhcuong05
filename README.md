@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manhcuong05&theme=dracula&bg_color=141321&color=ff007f&line=ff00aa&point=ffffff&hide_border=true" />
+</p>
  
 </a>
 
