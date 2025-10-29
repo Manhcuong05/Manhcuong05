@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manhcuong05&theme=dracula&bg_color=141321&color=ff007f&line=ff00aa&point=ffffff&hide_border=true" />
-</p>
+
  
 </a>
 
@@ -51,6 +49,11 @@ But instead, I chose silence — because real code speaks louder than words.</p>
     <img src="https://skillicons.dev/icons?i=arch,visualstudio,blender,notion" height="50px" alt="Most used">
 </div>
 <hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manhcuong05&theme=radical&hide_border=false" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manhcuong05&layout=compact&theme=radical&langs_count=8&hide_border=false" height="165px"/>
+</p>
+
 
 <h3> 👾 Find me at discord </h3>
 <a href="https://discord.com/users/862624930088484874" target="_blank">
