@@ -51,11 +51,13 @@ But instead, I chose silence — because real code speaks louder than words.</p>
 
 <h3> 👾 Find me at discord </h3>
 <a href="https://discord.com/users/862624930088484874" target="_blank">
-    <div align="center">
-        <img width="40%" src="https://lanyard.cnrad.dev/api/1130166359217688667?bg=0d1117&borderRadius=1rem&idleMessage=I%27m%20doing%20nothing%20%E3%84%9F(%20%E2%96%94,%20%E2%96%94%20)%E3%84%8F"
-            alt="Discord">
-    </div>
+  <div align="center">
+    <img width="40%"
+      src="https://lanyard.cnrad.dev/api/862624930088484874?bg=141321&borderRadius=1rem&borderWidth=3px&borderColor=ff007f&idleMessage=Probably%20fixing%20bugs%20in%20Spring%20Boot%20%E2%9A%99%EF%B8%8F"
+      alt="Discord Profile">
+  </div>
 </a>
+
 <hr>
 
 ``` kt
