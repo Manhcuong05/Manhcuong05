@@ -94,5 +94,6 @@ class Me {
 ```
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/YangLine/YangLine/snake/github-snake-dark.svg" alt="Snake">
+  <img src="https://raw.githubusercontent.com/Manhcuong05/Manhcuong05/output/github-snake-dark.svg" alt="snake animation" />
 </div>
+
