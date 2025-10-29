@@ -1,15 +1,15 @@
 
- <p align="center">
+<h1 align="center">👋 Hi, I'm Cường Nguyễn (CueX)</h1>
+<h3 align="center">💻 Backend Developer | 🚀 IT Student @ CMC University</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manhcuong05&label=Profile%20views&color=ff007f&style=for-the-badge" alt="Manhcuong05" />
 </p>
+
 
 </a>
 
 <p>
-READ ME
-
-Yes read this.
-
 I could’ve said something meaningful here.
 Maybe a quote, or a mission statement.
 But instead, I chose silence — because real code speaks louder than words.</p>
