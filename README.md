@@ -73,7 +73,7 @@
 <a href="https://discord.com/users/862624930088484874" target="_blank">
   <div align="center">
     <img width="45%"
-      src="https://lanyard.cnrad.dev/api/862624930088484874?bg=141321&borderRadius=1rem&borderWidth=3px&borderColor=ff007f&idleMessage=Probably%20fixing%20bugs%20in%20Spring%20Boot%20⚙️"
+      src="https://lanyard.cnrad.dev/api/862624930088484874?bg=141321&borderRadius=1rem&borderWidth=3px&borderColor=ff007f&idleMessage=Probably%20fixing%20bugs%20in%20Spring%20Boot%20"
       alt="Discord Profile">
   </div>
 </a>
