@@ -1,8 +1,3 @@
-<a href="https://wakatime.com/@Manhcuong05">
-  <img width="40%" align="right"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Manhcuong05&border_radius=13px&theme=radical&border_color=1f6feb&range=all_time&custom_title=%F0%9F%92%BB%20C%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%27s%20coding%20stats"
-    alt="Cường Nguyễn's WakaTime Stats">
-</a>
 
 <h1 align="center">👋 Hi, I'm Cường Nguyễn</h1>
 <h3 align="center">💻 Backend Developer | 🚀 IT Student @ CMC University</h3>
